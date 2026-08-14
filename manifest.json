@@ -1,11 +1,19 @@
 {
-  "construction-images": {
-    "title": "Construction Site Walkthrough",
-    "description": "Sample scenario showcasing daily progress photos from a construction project."
-  },
     "project-intelligence-engine": {
     "title": "Project Intelligence Engine",
     "description": "Structured retrospective analysis on the documents your delivery teams already produce. Three AI skills: - Change Event Extraction - Root Cause Analysis - Timeline Dashboard Run against a SharePoint project site to surface causal chains, intervention windows, and early warning signals."
+  },
+   "custom-image-tagger": {
+    "title": "Custom Image Tagger",
+    "description": "A custom image tagging solution for identifying and categorizing images in your media library."
+  },
+    "invoice-po-reconciliation": {
+    "title": "Invoice-PO Reconciliation",
+    "description": "A solution for reconciling invoices with purchase orders."
+  },
+   "rfp-proposal-engine": {
+    "title": "RFP Generation & Review Engine",
+    "description": "A solution for automatically generating Request for Proposals (RFPs) based on predefined templates and project requirements."
   }
 
 }
