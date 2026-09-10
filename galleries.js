@@ -30,6 +30,20 @@ const galleries = [
                    ]
     },
     {
+        "folder":  "nda-compliance-engine",
+        "title":  "NDA Compliance Engine",
+        "description":  "A solution for ensuring compliance with Non-Disclosure Agreements (NDAs) playbook across your organization.",
+        "images":  [
+                       "nda-compliance-engine/01 - NDA Playbook.png",
+                       "nda-compliance-engine/02 - NDA.png",
+                       "nda-compliance-engine/03 - NDA Validation.png",
+                       "nda-compliance-engine/04 - NDA Validation.png",
+                       "nda-compliance-engine/05 - Email Correspondence.png",
+                       "nda-compliance-engine/06 - Email Validation against playbook.png",
+                       "nda-compliance-engine/07 - Compliance results.png"
+                   ]
+    },
+    {
         "folder":  "project-intelligence-engine",
         "title":  "Project Intelligence Engine",
         "description":  "Structured retrospective analysis on the documents your delivery teams already produce. Three AI skills: - Change Event Extraction - Root Cause Analysis - Timeline Dashboard Run against a SharePoint project site to surface causal chains, intervention windows, and early warning signals.",

@@ -14,6 +14,11 @@
    "rfp-proposal-engine": {
     "title": "RFP Generation & Review Engine",
     "description": "A solution for automatically generating Request for Proposals (RFPs) based on predefined templates and project requirements."
+  },
+   "nda-compliance-engine": {
+    "title": "NDA Compliance Engine",
+    "description": "A solution for ensuring compliance with Non-Disclosure Agreements (NDAs) playbook across your organization."
   }
+
 
 }
