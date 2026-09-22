@@ -18,7 +18,13 @@
    "nda-compliance-engine": {
     "title": "NDA Compliance Engine",
     "description": "A solution for ensuring compliance with Non-Disclosure Agreements (NDAs) playbook across your organization."
+  },
+   "medicaid-formulary-drug": {
+    "title": "Medicaid Formulary Drug",
+    "description": "A solution for managing and analyzing drug formulary information for Medicaid programs."
+  },
+   "banking-economic-indicator": {
+    "title": "Banking Economic Indicator",
+    "description": "A solution for tracking and analyzing economic indicators in the banking sector."
   }
-
-
 }
